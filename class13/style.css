@@ -1,0 +1,24 @@
+
+.height-width{
+    height: 450px;
+    border: 2px solid red;
+    
+}
+
+.half-width{
+    width: 50%;
+    float: left;
+    
+}
+.half-width img{
+    width: 100%;
+
+   }
+  .third-width{
+      width: 33.33%;
+      float: left;
+  }
+  .third-width{
+      width: 100%;
+  }
+  
